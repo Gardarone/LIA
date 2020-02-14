@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68408984742",
+    "firebase_url": "https://tasteandrate-8300c.firebaseio.com",
+    "project_id": "tasteandrate-8300c",
+    "storage_bucket": "tasteandrate-8300c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68408984742:android:f4472f633dd2d96064e067",
+        "android_client_info": {
+          "package_name": "co.example.anton.lia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68408984742-1qtkdfcqt37n7knk5o5lm0or4e97fdet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbQqBDq-PSdKnCcJZN-u3lNKb-6xKr7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68408984742-1qtkdfcqt37n7knk5o5lm0or4e97fdet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
